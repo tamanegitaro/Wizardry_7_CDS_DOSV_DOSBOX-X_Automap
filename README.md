@@ -63,8 +63,7 @@ AutoMap機能は、Unpack済みの `DS.EXE` を前提としています。
 
 このリポジトリのReleaseから、以下のファイルをダウンロードしてください。
 
-https://github.com/user-attachments/files/29432556/Wizardry_7_CDS_DOSV_DOSBOX-X_Automap-main.zip
-
+https://github.com/user-attachments/files/29434299/Wizardry_7_CDS_DOSV_DOSBOX-X_Automap-main.zip
 
 ZIPを展開すると、以下のような構成になっています。
 

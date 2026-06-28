@@ -6,10 +6,10 @@
 
 このModを導入すると、ゲーム画面とは別にAutoMap用ウィンドウが表示され、ゲーム中の移動に合わせてマップが自動生成されます。
 
+<img width="1878" height="1085" alt="image" src="https://github.com/user-attachments/assets/22e48d3a-47e5-4c1c-91c6-7f9f0bdda34b" />
 
 本Modは、**日本語DOS/V版 Wizardry 7**向けです。  
-**Wizardry 6のAutoMap機能は含まれていません。**  
-作者がWizardry 6日本語版を所有していないため、Wizardry 6日本語版への対応確認・実装は行っていません。
+**Wizardry 6や他のWizardry 7のAutoMap機能は含まれていません。**  
 
 ## できること
 
